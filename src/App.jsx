@@ -356,7 +356,7 @@ function App() {
 					</p>
 				</div>
 			</section>
-			<h4
+			<h5
 				style={{
 					color: 'white',
 					alignItems: 'center',
@@ -364,7 +364,7 @@ function App() {
 					display: 'flex',
 				}}>
 				© 2025 All Rights Reserved. Designed by Ljupcho Popov
-			</h4>
+			</h5>
 		</main>
 	);
 }
